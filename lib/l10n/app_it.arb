@@ -1,0 +1,11 @@
+{
+  "boredApi": "Bored Api",
+  "@boredApi": {
+    "description": "Test: rest call on free Bored Api"
+  },
+  "activity": "Attività",
+  "type": "Tipo",
+  "participants": "Partecipanti",
+  "accessibility": "Facilità",
+  "price": "Costo"
+}
